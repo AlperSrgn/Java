@@ -11,7 +11,7 @@ public class Main {
 		 */
 		
 		Scanner scanner = new Scanner(System.in);
-
+		System.out.print("Number: ");
 		int num = scanner.nextInt();
 
 		for (int i = 1; i <= num; i++) {
