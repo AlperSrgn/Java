@@ -1,1 +1,1 @@
-Java algorithm questions and answers.
+Java concepts, algorithm questions and exercises
