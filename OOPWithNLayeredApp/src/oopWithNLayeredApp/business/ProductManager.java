@@ -18,7 +18,7 @@ public class ProductManager {
 	public void add(Product product) throws Exception {
 		// business rules
 		if(product.getUnitPrice()<10) {
-			throw new Exception("Fiyat 10 dan Küçük Olamaz");
+			throw new Exception("Price can not be less than 10");  // basic example
 		}
 		
 		productDao.add(product);
