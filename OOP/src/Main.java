@@ -13,7 +13,7 @@ public class Main {
 		
 		CorporateCustomer corporateCustomer = new CorporateCustomer();
 		corporateCustomer.setId(2);
-		corporateCustomer.setCompanyName("Codlama.io");
+		corporateCustomer.setCompanyName("Github");
 		corporateCustomer.setPhone("02166548793");
 		corporateCustomer.setTaxNumber("123456789");
 		corporateCustomer.setCustomerNumber("54321");
